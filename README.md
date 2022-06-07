@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbdullahJaved65
 - 👀 I’m interested in Data Science, Data Analysis, ASP.NET
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on anything ranging from data analysis and data science to web developement
 - 📫 How to reach me? You can email me at abdullahjaved65@outlook.com and abdullahjaved65@yahoo.com
 
